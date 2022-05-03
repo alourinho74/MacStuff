@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LoggedinUser=$(id -un)
-WallpaperFileURL="https://github.com/alourinho74/MacStuff/blob/main/MacOsWallPaper/Img/__macOSWallpaper.jpg?raw=true"
+WallpaperFileURL="https://github.com/alourinho74/MacStuff/blob/main/MacOsWallPaper/Img/macOSWallpaper.jpg?raw=true"
 WallpaperDestDir="/Library/Desktop"
 WallpaperFile="Wallpaper.jpg"
 logdir="/Library/IntuneAppsLogs/"
