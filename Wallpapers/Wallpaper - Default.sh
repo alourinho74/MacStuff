@@ -3,7 +3,7 @@ LoggedinUser=$(id -un)
 WallpaperDestDir="/Library/Desktop"
 WallpaperFile="Wallpaper.jpg"
 logdir="/Library/IntuneAppsLogs/"
-logfile="SetWallpaper.log"
+logfile="SetWallpaper-Default.log"
 logpath=$logdir/$logfile
 logdirflag=1
 
