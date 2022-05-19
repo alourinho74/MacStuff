@@ -45,7 +45,7 @@ function cpwallfiles
 
     echo  [$(date +"%d/%m/%Y %T")] - aspec ratio is $aspectratio = $value >> $logpath
 
-    WallpaperFileURL="https://github.com/alourinho74/MacStuff/blob/main/Wallpapers/Img/$fich"
+    WallpaperFileURL="https://github.com/alourinho74/MacStuff/blob/main/Wallpapers/Default/$fich"
     #echo $WallpaperFileURL >> $logpath
 
     echo  [$(date +"%d/%m/%Y %T")] - Downloading file from $WallpaperFileURL to $WallpaperDestDir >> $logpath
